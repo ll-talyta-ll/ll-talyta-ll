@@ -1,4 +1,5 @@
-## Olá eu sou a Talyta Scaramuzzo e tenho 20 anos!
+## Olá eu sou a Talyta Scaramuzzo, cursando Ciência da Computação ![image](https://user-images.githubusercontent.com/64484600/180715622-bf974b4c-974b-4504-a56a-19efce22eb85.png)
+
 
 
 - 🌱 Estudando SQL e ferramentas para Análise de Dados
