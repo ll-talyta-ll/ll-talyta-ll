@@ -23,8 +23,8 @@
 
    ##
   <div>
-    
   <a href = "mailto:talyta1405@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/talyta-scaramuzzo-01a277195/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
   </div>  
+
+  ![Snake animation](https://github.com/ll-talyta-ll/ll-talyta-ll/blob/output/github-contribution-grid-snake.svg)
