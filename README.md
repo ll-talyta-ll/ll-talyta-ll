@@ -1,7 +1,9 @@
-## Olá eu sou a Talyta Scaramuzzo, cursando Ciência da Computação ![image](https://user-images.githubusercontent.com/64484600/180715622-bf974b4c-974b-4504-a56a-19efce22eb85.png)
+## Olá eu sou a Talyta Scaramuzzo
+20 anos 
+Bacharelando em Ciência da Computação na Universidade Presbiteriana Mackenzie 🖥️ ⌨️ 🖱️
+Atualmente estou no 6 semestre 
 
-
-
+-
 - 🌱 Estudando SQL e ferramentas para Análise de Dados
 - 📫 Contate-me no email: talyta1405@gmail.com
 - 😄 Pronomes: ela/dela
