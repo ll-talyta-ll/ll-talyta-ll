@@ -1,9 +1,9 @@
-## Olá eu sou a Talyta Scaramuzzo
+## Olá eu sou a Talyta Scaramuzzo, atualmente tenho 20 anos e estagiando na empresa C6 Bank, 
 
 -Bacharelando em Ciência da Computação na Universidade Presbiteriana Mackenzie 🖥️ ⌨️ 🖱️
-- 🌱 Estudando SQL e ferramentas para Análise de Dados
 - 📫 Contate-me no email: talyta1405@gmail.com
-- 😄 Pronomes: ela/dela
+- 🏳️‍🌈 Pronomes: ela/dela
+- 😆 Fato divertido sobre mim: tenho um Chowchow 🐶
 
 
 <div align="center">
