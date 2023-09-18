@@ -3,7 +3,7 @@
 -Bacharelando em Ciência da Computação na Universidade Presbiteriana Mackenzie 🖥️ ⌨️ 🖱️
 - 📫 Contate-me no email: talyta1405@gmail.com
 - 🏳️‍🌈 Pronomes: ela/dela
-- 🌏 Tenho 20 anos
+- 🌏 Tenho 21 anos
 - 😆 Fato divertido sobre mim: tenho um Chowchow 🐶
 
 
